@@ -1,0 +1,15 @@
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Diagonal_Difference\Hackerrank-Diagonal_Difference\bin\Debug\net7.0\Hackerrank-Diagonal_Difference.exe
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Diagonal_Difference\Hackerrank-Diagonal_Difference\bin\Debug\net7.0\Hackerrank-Diagonal_Difference.deps.json
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Diagonal_Difference\Hackerrank-Diagonal_Difference\bin\Debug\net7.0\Hackerrank-Diagonal_Difference.runtimeconfig.json
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Diagonal_Difference\Hackerrank-Diagonal_Difference\bin\Debug\net7.0\Hackerrank-Diagonal_Difference.dll
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Diagonal_Difference\Hackerrank-Diagonal_Difference\bin\Debug\net7.0\Hackerrank-Diagonal_Difference.pdb
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Diagonal_Difference\Hackerrank-Diagonal_Difference\obj\Debug\net7.0\Hackerrank-Diagonal_Difference.csproj.AssemblyReference.cache
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Diagonal_Difference\Hackerrank-Diagonal_Difference\obj\Debug\net7.0\Hackerrank-Diagonal_Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Diagonal_Difference\Hackerrank-Diagonal_Difference\obj\Debug\net7.0\Hackerrank-Diagonal_Difference.AssemblyInfoInputs.cache
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Diagonal_Difference\Hackerrank-Diagonal_Difference\obj\Debug\net7.0\Hackerrank-Diagonal_Difference.AssemblyInfo.cs
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Diagonal_Difference\Hackerrank-Diagonal_Difference\obj\Debug\net7.0\Hackerrank-Diagonal_Difference.csproj.CoreCompileInputs.cache
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Diagonal_Difference\Hackerrank-Diagonal_Difference\obj\Debug\net7.0\Hackerrank-Diagonal_Difference.dll
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Diagonal_Difference\Hackerrank-Diagonal_Difference\obj\Debug\net7.0\refint\Hackerrank-Diagonal_Difference.dll
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Diagonal_Difference\Hackerrank-Diagonal_Difference\obj\Debug\net7.0\Hackerrank-Diagonal_Difference.pdb
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Diagonal_Difference\Hackerrank-Diagonal_Difference\obj\Debug\net7.0\Hackerrank-Diagonal_Difference.genruntimeconfig.cache
+C:\Users\VO\Desktop\Hackerrank\Hackerrank-Diagonal_Difference\Hackerrank-Diagonal_Difference\obj\Debug\net7.0\ref\Hackerrank-Diagonal_Difference.dll
